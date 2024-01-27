@@ -1,19 +1,31 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo
 
 
 
+
+Web Calculator Using React
+
+
+The Web Calculator Using React is a user-friendly and responsive online calculator application built with the popular JavaScript library, React. This calculator provides a sleek and modern interface that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The use of React ensures a smooth and efficient user experience, with real-time updates as users input numbers and perform calculations.
+
+Here the Screenshorts of Web Calculator that you can click on and use 
+
+
+## Screenshots
+
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBbh0kIMGiTwqqJJI7inAJyFO-0qOVfVIMlg6yPbbGif4PJOAvWpfQjIcxl26STYBRP_817f50h38suHFV5X2DOBEf_hdBNCTASILgLWb191bwrSVsxTN7ljMcHen5HhQ708xgiGCrmbYzvyaY7ax4rPE4G6_IlXYQKKPJL6vGBiSvnhsugxk6lAo5/s1596/Web%20capture_27-1-2024_22256_localhost.jpeg)
+
+
+## 🔗 https://vikashverma2.github.io/Web-Calculator/
+
+
+
+
+## Features
+
+- Responsive 
+- Live previews
+- Fullscreen mode
+- Cross platform
 
