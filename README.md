@@ -9,7 +9,7 @@ Web Calculator Using React
 
 The Web Calculator Using React is a user-friendly and responsive online calculator application built with the popular JavaScript library, React. This calculator provides a sleek and modern interface that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The use of React ensures a smooth and efficient user experience, with real-time updates as users input numbers and perform calculations.
 
-Here the Screenshorts of Web Calculator that you can click on and use 
+Here the Screenshorts of Web Calculator that you can use by clicking on the link given below.
 
 
 ## Screenshots
