@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.mainBox {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  
+  justify-content: center;
+}
+
+.mainbar {
+  background-image: url("Asstes/bg.jpg");
+  background-size: cover;
+}
+
+.calc {
+  width: 305px;
+  height: 89%;
+  background-image: url("Asstes/mobile3.png");
+  background-size: cover;
+  display: flex;
+  align-items: end;
+
+}
+
+.CAL2 {
+  padding: 22px;
+  padding-bottom: 25px;
+
+}
+
+.CAL2 p {
+  display: flex;
+  justify-content: center;
+  font-size: 0.6rem;
+  margin: 5px;
+}
+
+/* For mobile phones: */
+
+@media only screen and (min-width: 780rem) {
+
+  .calc {
+    width: 300px;
+    height: 88vh;
+  }
+}
+
+/* For Tab phones: */
+
+@media (min-width:998rem) {
+  .calc {
+    width: 320px;
+    height: 92vh;
+  }
+
+}
+
+
+.display {
+  text-align: right;
+  width: 260px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-size: 35px;
+  color: black;
+}
+
+.btn {
+  margin: 7px;
+  width: 3.2rem;
+  height: 3.2rem;
+  border-radius: 10px;
+  background-color: #e2e2e2;
+  font-size: 30px;
+}
+
+.btn:hover {
+  box-shadow: 0px 0px 2px 2px gray;
+  border: none;
+  cursor: pointer;
+}
+
+.bt1 {
+  width: 7.2rem;
+  background-color: rgb(225, 116, 97);
+}
+
+.bt2 {
+  width: 7.2rem;
+  background-color: rgb(79, 144, 223);
+}
+
+.bt {
+  background-color: gray;
+}
