@@ -17,9 +17,9 @@
   background-size: cover;
 }
 
-.calc {
-  width: 305px;
-  height: 89%;
+.container {
+  width: 19rem;
+  height: 88%;
   background-image: url("Asstes/mobile3.png");
   background-size: cover;
   display: flex;
@@ -27,7 +27,7 @@
 
 }
 
-.CAL2 {
+.Card {
   
   width: 100%;
   padding: 22px;
@@ -35,7 +35,7 @@
 
 }
 
-.CAL2 p {
+.Card p {
   display: flex;
   justify-content: center;
   font-size: 0.6rem;
@@ -44,36 +44,26 @@
 
 /* For mobile phones: */
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 600px) {
 
-.CAL2{
-  margin: 25px;
-
-}
-
-  .diplayBox{
-    width: 100%;
-    display: flex;
-    justify-self: left;
-
-  }
-  .calc {
-
-    width: 87%;
-  
-   
+  .container{
+    width: 23rem;
+  height: 82.6%;
   }
   .btn{
-    width: 21.8% !important;
-    height: 70px !important; 
-  }
-  .bt1 {
-    width: 46.8% !important;
+    margin: 5px ! important;
+    width: 4.2rem ! important;
+  height: 3.8rem ! important;
+  margin: 5px ! important;
+  
+
   }
   .bt2{
-    width: 46.8% !important;
-    
+    width: 9.2rem ! important;
   }
+
+
+
 }
 
 .display {
@@ -95,6 +85,13 @@
   border-radius: 10px;
   background-color: #e2e2e2;
   font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Row{
+  display: flex;
+  justify-content: space-between;
 }
 
 .btn:hover {
@@ -104,7 +101,7 @@
 }
 
 .bt1 {
-  width: 7.2rem;
+  
   background-color: rgb(225, 116, 97);
 }
 
@@ -115,4 +112,8 @@
 
 .bt {
   background-color: gray;
+}
+.back{
+  background-color: gray;
+ 
 }
